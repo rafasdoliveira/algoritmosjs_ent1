@@ -2,9 +2,9 @@
 Entregável 1 - Ambientes de desenvolvimento de software - Algoritmos JS
 
 Atividade inicial para a cadeira de Ambientes de desenvolvimento de software
-
+---------------------------------------------------------------------------------
 Entregável #1 - Algoritmos
-Implemente os seguintes algoritmos na linguagem Javascript e Java usando o Visual Studio Code.
+Implemente os seguintes algoritmos na linguagem Javascript usando o Visual Studio Code.
 
 Número é primo: Um número inteiro positivo n é primo se for divisível apenas por 1 e por n.
 
